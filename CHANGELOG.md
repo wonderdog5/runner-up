@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.14](https://github.com/kunchenguid/runner-up/compare/v0.1.13...v0.1.14) (2026-11-17)
+
+
+### Features
+
+* **agent:** keep a place running through a dropped SSH connection ([74603a8](https://github.com/kunchenguid/runner-up/commit/74603a8a0b64f2ebc8eaed7d137f7eb9e99940ee))
+
 ## [0.1.13](https://github.com/kunchenguid/runner-up/compare/v0.1.12...v0.1.13) (2026-11-15)
 
 
